@@ -1,7 +1,7 @@
 # UDPLogger
 UDPLogger plots data which comes from the UDP socket. The signals in a UDP dataframe were defined in a .xlsx or .xml file and will imported into the logger.
 
-**For detailed information about the application and the source code see the [project page](https://gitlab.com/Murmele/UDPLogger) hosted on Gitlab**
+**For detailed information about the application and the source code see the [project page](https://murmele.gitlab.io/UDPLogger/) or the [repository](https://gitlab.com/Murmele/UDPLogger) hosted on Gitlab**
 
 Features:
 
